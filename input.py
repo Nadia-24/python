@@ -11,5 +11,5 @@ print("New age : ",age1)
 x = int(input("enter 1st number : "))
 y = float(input("enter 2nd number : "))
 sum = x+y #int(x)+float(y)
-print("Answer : ",sum)
+print("Answer : ", sum)
 

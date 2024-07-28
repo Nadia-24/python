@@ -12,6 +12,6 @@ print(y.find('J'))
 print(y.replace("TANJIM","Sajid"))
 #in
 z = "Computer"
-print('u' in z) #u is exist or not 
+print('u' in z) # u is exist or not 
 print('c' in z)
 print("put" in z)

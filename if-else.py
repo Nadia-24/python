@@ -28,7 +28,7 @@ elif O=='**':
 elif O=='/':
     print(F/S)
 elif O=='%':
-    print(F%S)    
+    print(F % S)    
 else:
-    print("")
+    print(" ")
 

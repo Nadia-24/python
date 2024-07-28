@@ -17,12 +17,17 @@ print("Division = ", y//b) #without decimal
 print("remander = ", y%b)
 print("multiplecation = ",z*b)
 print("power = ", b**2)
-
 print(" ")
+
 #number
 print(int(a))
 print(float(b))
 print(str(w))
+print("")
+
+#Range
+print("Range")
+print(range(5))
 
 print(" ")
 #shortcut
