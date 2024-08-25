@@ -57,5 +57,9 @@ print(not 3>2)
 print(not 6<5)
 print("")
 
-
+n = int(input(""))
+i=0
+while i<n:
+    print(i**2)
+    i+=1
 

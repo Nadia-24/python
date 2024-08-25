@@ -5,6 +5,9 @@ print(marks[0]) # 0 positin value
 print(marks[-1]) # -1 positin value (count from right side)
 print(marks[0:2]) # 2 position value not print (only 0,1 vlaue print)
 print(marks[0:1]) # 1 position value not print
+#sort
+marks.sort(reverse=True)
+print(marks)
 
 #for in list
 print("")
